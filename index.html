@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>java srcipt</title>
+		<style>
+		body {
+			font-family: Arial, sans-serif;
+			background-color: #F5F1AB;
+			text-align: center;
+			padding: 30px;
+		}
+
+		h1 {
+			color: #c0392b;
+		}
+
+		h2 {
+			color: #000000;
+			margin-top: 25px;
+		}
+
+		h3 {
+			color: #000000;
+			background-color: #ffffff;
+			display: inline-block;
+			border: 1px solid #000000;
+			padding: 10px 15px;
+			margin: 6px ;
+		}
+	</style>
+</head>
+<body>
+	<h1>Ejemplo Basico</h1>
+
+	<script>
+		let numero1 = parseFloat(prompt("Seleccione el primer numero"));
+		let simbolo = prompt("seleccione la funcion: +, -, *, /");
+		let numero2 = parseFloat(prompt("Selecione el segundo numero"));
+		let sumanum1 = numero1 + numero2;
+		let restanum1 = numero1 - numero2;
+		let multinum1 = numero1 * numero2;
+		let divinum1 = numero1 / numero2;
+		if (simbolo == "+") {
+			let sumanum = numero1 + numero2;
+			alert("Tu numero es: "+ sumanum);
+		} else if (simbolo == "-"){
+			let restanum = numero1 - numero2;
+			alert("Tu numero es: "+ restanum);
+		} else if (simbolo == "*"){
+			let multinum = numero1 * numero2;
+			alert("Tu numero es: "+ multinum);
+		} else if (simbolo == "/"){
+			let divinum = numero1 / numero2;
+			alert("Tu numero es: "+ divinum);
+		} else {
+			alert("singno mal seleccionado")
+			var malo = 1;
+		}
+		if (isNaN(sumanum1) || isNaN(restanum1) || isNaN(multinum1) || malo == 1 ){
+			document.write("<h1> Algo hiciste mal, refresca la pagina y vuelve a intentarlo.")
+		}
+		else {
+		document.write("<h2>Funcion seleccionada</h2><h3> " + numero1 + simbolo + numero2 +"</h3>");
+		document.write("<h2>Todas los resultados</h2>");
+		document.write("<h3>Suma " + numero1 + "+" + numero2 + "=" + sumanum1 +"</h3>");
+		document.write("<h3>Resta " + numero1 + "-" + numero2 + "=" + restanum1 +"</h3>");
+		document.write("<h3>Multiplicación "  + numero1 + "*" + numero2 + "=" + multinum1 +"</h3>");
+		document.write("<h3>División "  + numero1 + "/" + numero2 + "=" + divinum1 +"</h3>");
+	}
+	</script>
+</body>
+</html>
