@@ -1,4 +1,4 @@
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/f4c62e29-97c3-44f5-ad23-190616f9a324" /># Pseudosuquios del Triásico
+# Pseudosuquios del Triásico
 
 Los **pseudosuquios (Pseudosuchia)** fueron un grupo de reptiles arcosaurios que apareció durante el **Triásico**. **No eran dinosaurios**, aunque convivieron con ellos durante este periodo.
 
@@ -8,7 +8,7 @@ Los **pseudosuquios (Pseudosuchia)** fueron un grupo de reptiles arcosaurios que
 
 **Saurosuchus** fue un gran depredador del Triásico Superior que vivió en Sudamérica.
 
-![Saurosuchus]([https://commons.wikimedia.org/wiki/Special:FilePath/Saurosuchus%20BW.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVb4pMRyFxaR3WOyhuV9SdMkLBf21kSGrrZb8RnyZtv3Jtr0bnpQZY3WN&s=10))
+![Saurosuchus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbXs3JMh-FXCOt49tBM8vlbDOjAtuuP7TtrBuYk8M54Q&s=10)
 
 ### Desmatosuchus
 
