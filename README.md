@@ -51,12 +51,12 @@ Esta afirmación es **incorrecta**. Los pseudosuquios y los dinosaurios pertenec
 
 ## Lista de comprobación
 
-- [x] Aparecieron durante el Triásico.
-- [x] Eran arcosaurios.
-- [x] Existieron grandes depredadores.
-- [x] Existieron especies herbívoras.
-- [x] Algunas especies tenían armadura.
-- [x] **No eran dinosaurios.**
+- [ ] Aparecieron durante el Triásico.
+- [ ] Eran arcosaurios.
+- [ ] Existieron grandes depredadores.
+- [ ] Existieron especies herbívoras.
+- [ ] Algunas especies tenían armadura.
+- [ ] **No eran dinosaurios.**
 
 ---
 
